@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learning JavaScript",
+      "datetime": "July 16, 2022 11:47:39 AM",
+      "body": "In order to become a web developer, I should be proficient in this language so I can build websites from scratch"
+    },
+    {
+      "id": 2,
+      "title": "Visit Paris",
+      "datetime": "July 23, 2022 11:47:48 AM",
+      "body": "I would love to visit the Eiffel Tower and the countless other gorgeous landmarks and monuments that add to the beauty of the spacious boulevards and charming cafés from Paris"
+    },
+    {
+      "id": 3,
+      "title": "Making new friends",
+      "datetime": "August 16, 2022 11:48:01 AM",
+      "body": "I would like to know new people that can enrich my personal life. I would love to discover their ways, beliefs, traditions and have a great time with them. "
+    },
+    {
+      "id": 4,
+      "title": "Playing soccer again",
+      "datetime": "August 22, 2022 11:46:27 AM",
+      "body": "I loved playing soccer when I was young and would like to play again"
+    }
+  ]
+}
